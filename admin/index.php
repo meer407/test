@@ -22,7 +22,7 @@
         background: #80808045;
   }
   .modal-dialog.large {
-    width: 80% !important;
+    width: 70% !important;
     max-width: unset;
   }
   .modal-dialog.mid-large {
